@@ -24,6 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/*Styles everything in the section element within the parent element that has the class value of header.*/
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -64,6 +65,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styles three different classes at the same time with the same properties to reduce lines of code. */
 .search-engine-optimization,.online-reputation-management,.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
