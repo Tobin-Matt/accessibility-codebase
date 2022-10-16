@@ -1,23 +1,23 @@
-# Code Refactor Starter Code
-* Refactor existing code for a marketing agency site to make it more accessible.
+# Horiseon Marketing Code Refactor
+Refactored existing code for Horiseon marketing agency site to make it more accessible. 
 
-## User Story
-* AS A marketing agency
-* I WANT a codebase that follows accessibility standards
-* SO THAT our own site is optimized for search engines
+## Project Description
+This project consists of a HTML file, a CSS file and multiple images used for the agency site. The HTML file that was provided was not up to accessibilty standards. In order to make sure the site was better reachable by search engines and accessible to people using assistive technologies the HTML file needed to be modified in a few ways.
 
-## Acceptance Criteria
-* GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
+Below are the ways the HTML file was modified to make the site more accessible:
+* Changed elements to be semantic HTML elements
+* Ensured the structure of the elements in the HTML file are in logical order
+* Added alternate text attributes the images
+* Ensured the heading elements were in sequential order
+* Added a clear and concise title for the site
+* Fixed link in navigation bar to jump to associated section on the web page
 
-## Notes
+The CSS sheet was also modified to enhance its readability. This was done in the following ways:
+* Consolidated the different CSS selectors
+* Orderd the selectors to match the order of the HTML file
+* Added comments to define purpose of selectors that are not as clear
 
+## Snapshot of Deployed site
+
+
+## Project URLS
