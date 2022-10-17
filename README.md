@@ -18,6 +18,8 @@ The CSS sheet was also modified to enhance its readability. This was done in the
 * Added comments to define purpose of selectors that are not as clear
 
 ## Snapshot of Deployed site
-
+![](./Develop/assets/images/Horiseon-deployed-screenshot.png)
 
 ## Project URLS
+* Deployed site URL: https://tobin-matt.github.io/horiseon-code-refactor/
+* GitHub Repo URL: https://github.com/Tobin-Matt/horiseon-code-refactor
